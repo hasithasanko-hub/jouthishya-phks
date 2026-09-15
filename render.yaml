@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: hela-jyotishya-phks-demo
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/health
+    envVars:
+      - key: HELA_ACCESS_MODE
+        value: paid
+      - key: HELA_PUBLISHER
+        value: PHKS Creation
+      - key: HELA_WHATSAPP
+        value: +94715954563

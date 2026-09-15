@@ -1,0 +1,11 @@
+PHKS Creation — Hela Jyotishya V3.5.3
+Advanced Baby Name Selection
+- Birth data -> Nakshatra -> Pada
+- Primary naming syllable highlighted with ★
+- Additional suggested syllables shown
+- User can select one or multiple syllables
+- Modern names refresh from the selected syllables
+- Sri Lankan / Indian / International filters preserved
+- Male / Female filter preserved
+- Creative names are clearly labelled and not given false etymological meanings
+- Print/PDF output preserved

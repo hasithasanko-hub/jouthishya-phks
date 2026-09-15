@@ -250,3 +250,22 @@ body:before{opacity:.1;background-image:radial-gradient(rgba(226,189,114,.5) .7p
 
 /* V4.0 Accuracy and commercial admin */
 .audit-hero{display:flex;justify-content:space-between;gap:14px;align-items:center;padding:16px 18px;border-radius:16px;margin:12px 0}.audit-ok{background:rgba(36,126,87,.16);border:1px solid rgba(77,190,132,.35)}.audit-bad{background:rgba(153,50,63,.16);border:1px solid rgba(220,90,102,.35)}.audit-hero b{font-size:17px;color:#ead29d}.audit-hero span{font-size:11px;opacity:.8}.audit-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin:12px 0}.audit-grid>div{background:rgba(255,255,255,.045);border:1px solid rgba(214,174,87,.16);border-radius:14px;padding:13px}.audit-grid small,.audit-grid span{display:block;opacity:.72;font-size:11px}.audit-grid b{display:block;color:#e7c77c;margin:4px 0}.audit-table{display:grid;gap:6px}.audit-table>div{display:grid;grid-template-columns:1.4fr 1fr 1fr 35px;gap:8px;padding:9px 12px;border-bottom:1px solid rgba(255,255,255,.08)}.audit-table strong{color:#7ee0a8}@media(max-width:900px){.audit-grid{grid-template-columns:1fr 1fr}}
+
+/* v4.3 — ශ්‍රී ලංකා සාම්ප්‍රදායික රාශි / නවාංශ කොටු ආකෘතිය */
+.traditional-chart-panel{overflow:hidden}
+.sri-lanka-chart{gap:0!important;border:2px solid rgba(214,174,92,.78);background:#f7f1e7;box-shadow:0 16px 40px rgba(0,0,0,.2);aspect-ratio:1/1;max-width:620px;margin:0 auto}
+.sri-lanka-chart .chart-box{border:0!important;border-radius:0!important;min-height:0!important;background:#fffdf8!important;color:#172536!important;padding:10px!important;box-shadow:inset 0 0 0 1px #23303a;overflow:hidden}
+.sri-lanka-chart .chart-center{border:0!important;border-radius:0!important;background:#fffaf2!important;box-shadow:inset 0 0 0 1px #23303a;min-height:0!important;color:#4d1d29}
+.sri-lanka-chart .chart-box .sign-name{color:#7a2438!important;font-size:11px!important}
+.sri-lanka-chart .chart-box .sign-no{color:#9b7a45!important;font-size:8px!important}
+.sri-lanka-chart .chart-box .occupants{color:#172536!important;font-size:14px!important;font-weight:800;line-height:1.45!important;text-align:center;margin-top:12px!important}
+.sri-lanka-chart .traditional-center strong{font-size:19px!important;color:#9b3047!important}
+.sri-lanka-chart .traditional-center span{color:#5f4c45!important;font-size:11px!important;font-weight:800}
+.sri-lanka-chart .traditional-center em{display:block;margin-top:7px;color:#8d785f;font-size:9px;font-style:normal}
+.sri-lanka-chart .traditional-cell{position:relative}
+.sri-lanka-chart .corner-tl:after,.sri-lanka-chart .corner-tr:after,.sri-lanka-chart .corner-bl:after,.sri-lanka-chart .corner-br:after{content:"";position:absolute;left:50%;top:50%;width:142%;height:1px;background:#27333d;transform-origin:center;pointer-events:none;z-index:0}
+.sri-lanka-chart .corner-tl:after,.sri-lanka-chart .corner-br:after{transform:translate(-50%,-50%) rotate(45deg)}
+.sri-lanka-chart .corner-tr:after,.sri-lanka-chart .corner-bl:after{transform:translate(-50%,-50%) rotate(-45deg)}
+.sri-lanka-chart .chart-box>*{position:relative;z-index:1}
+.chart-legend{text-align:center;color:#9fb0bf;font-size:9px;margin-top:8px}
+@media(max-width:700px){.sri-lanka-chart{grid-template-columns:repeat(4,minmax(0,1fr))!important;aspect-ratio:1/1}.sri-lanka-chart .chart-center{grid-column:2/span 2!important;grid-row:2/span 2!important}.sri-lanka-chart .chart-box{min-height:0!important;padding:5px!important}.sri-lanka-chart .chart-box .sign-name{font-size:8px!important}.sri-lanka-chart .chart-box .occupants{font-size:10px!important;margin-top:7px!important}.sri-lanka-chart .traditional-center strong{font-size:14px!important}.sri-lanka-chart .traditional-center span{font-size:8px!important}}

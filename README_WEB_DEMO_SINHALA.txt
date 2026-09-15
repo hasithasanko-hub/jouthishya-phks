@@ -19,3 +19,5 @@ Render deploy:
 - deploy අවසානයේ https://....onrender.com link එක ලැබේ.
 
 සටහන: Cloud demo database host restart/deploy කිරීමේදී reset විය හැක. Customer production version සඳහා persistent database/cloud account වෙනම සකස් කළ යුතුය.
+
+V4.2: Deep Analysis diversity improved. Malefic effects are planet+house specific; sections no longer default to delay language; experience patterns vary by chart factors.

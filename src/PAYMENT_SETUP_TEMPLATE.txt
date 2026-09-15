@@ -1,0 +1,37 @@
+Lemon Squeezy හි සකස් කළ පසු මෙහි තොරතුරු තබාගන්න:
+
+Store name:
+
+මාසික සැලැස්ම
+Product/Variant:
+Price:
+Checkout URL:
+Activation limit: 1 (හෝ ඔබට අවශ්‍ය ගණන)
+
+වාර්ෂික සැලැස්ම
+Product/Variant:
+Price:
+Checkout URL:
+Activation limit: 1 (හෝ ඔබට අවශ්‍ය ගණන)
+
+ජීවිතකාලීන සැලැස්ම
+Product/Variant:
+Price:
+Checkout URL:
+Activation limit: 1 (හෝ ඔබට අවශ්‍ය ගණන)
+License length: Unlimited / no expiry
+
+Support email:
+Support URL:
+
+Production checklist:
+[ ] Test mode purchase tested
+[ ] License key email received
+[ ] Activation tested
+[ ] Restart validation tested
+[ ] Second PC activation-limit tested
+[ ] Deactivation tested
+[ ] Subscription expiry/cancel tested
+[ ] Offline grace tested
+[ ] Setup.exe installed on a clean Windows PC
+[ ] Uninstall tested

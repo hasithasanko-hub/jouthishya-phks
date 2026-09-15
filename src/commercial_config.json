@@ -1,0 +1,46 @@
+{
+  "product_name": "හෙළ ජ්‍යෝතිෂ්‍ය",
+  "edition": "PHKS Creation Full Commercial Suite V4.0",
+  "provider": "lemonsqueezy",
+  "license_required": true,
+  "offline_grace_days": 3,
+  "checkout_links": {
+    "monthly": "",
+    "yearly": "",
+    "lifetime": ""
+  },
+  "support_email": "",
+  "support_url": "https://wa.me/94715954563",
+  "notes": "Lemon Squeezy products/variants වල License Keys enable කරලා checkout URLs මෙහි දාන්න. API secret key එක app එකට දාන්න එපා.",
+  "trial_enabled": true,
+  "trial_days": 14,
+  "trial_note": "Trial is device-bound using Windows user registry + local app data. Production-scale anti-reset should additionally validate trial status with a cloud backend.",
+  "publisher": "PHKS Creation",
+  "support_whatsapp": "+94715954563",
+  "trial_calculation_limit": 10,
+  "trial_paid_only_features": [
+    "porondam",
+    "muhurta"
+  ],
+  "trial_pdf_watermark": true,
+  "trial_watermark_text": "TRIAL VERSION • PHKS Creation",
+  "show_access_screen_each_start": true,
+  "payment_fallback": "whatsapp",
+  "owner_unlimited_enabled": true,
+  "owner_unlimited_note": "PHKS Creation owner/test activation is local, device-bound after first activation, unlimited use, no trial calculation limit.",
+  "release_manifest_url": "",
+  "features_v40": [
+    "calculation_accuracy_center",
+    "deep_chart_specific_analysis",
+    "advanced_porondam",
+    "advanced_muhurta",
+    "advanced_baby_names",
+    "client_management",
+    "professional_reports",
+    "payments_receipts",
+    "backup_restore_integrity",
+    "commercial_license_registry",
+    "trial_paid_owner_unlimited",
+    "update_center"
+  ]
+}

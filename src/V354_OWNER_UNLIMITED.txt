@@ -1,0 +1,11 @@
+HELA JYOTISHYA V3.5.4 — PHKS OWNER UNLIMITED
+
+- Added PHKS Creation owner/test unlimited activation mode.
+- Owner key activates full paid mode and removes the trial calculation limit.
+- First activation is saved to the current device.
+- No expiry date for owner mode.
+- Regular customer Monthly / Yearly / Lifetime Lemon Squeezy flow remains unchanged.
+- Plaintext owner key is NOT included in this package. Keep the owner key private.
+
+PHKS Creation
+WhatsApp: +94 71 595 4563
